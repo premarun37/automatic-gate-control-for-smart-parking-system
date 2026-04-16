@@ -27,7 +27,7 @@ Efficient data structures such as **Circular Queue** and **Min Heap** are used t
 
 ---
 
-## 🛠️ Technologies & Components
+## Technologies & Components
 
 - Arduino UNO  
 - HC-SR04 Ultrasonic Sensors  
